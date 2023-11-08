@@ -21,7 +21,7 @@
      results with an Encoder-Decoder architecture and attention modules. 🏆
 
 ## GitHub Stats
-![AI Grad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourname&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=salahjebali&show_icons=true)
 
 ## Connect with Me
-- 📧 Email: Write me on [Linkedin]((https://www.linkedin.com/in/salah-jebali-dev))
+- 📧 Email: Write me on [Linkedin](https://www.linkedin.com/in/salah-jebali-dev)
