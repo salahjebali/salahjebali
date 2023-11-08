@@ -1,12 +1,12 @@
-### Hey there 👋
+## Hey there 👋
 
-## About Me
+### About Me
 - 🎓 Final year MEng student in **Artificial Intelligence** and Computer Science graduate
 - 📚 I’m currently working on my final thesis about **Federated Learning**
 - 🧬 I’m currently learning **Graph Neural Networks** for path generation
 - 🌄 **Nature Lover**: Hiking, Biking, and Even the Occasional Cliff Dive 🌊
 
-## Recent Projects
+### Recent Projects
 
 1. 🛡️ **Adversarial-Learning-with-FGSM-attacks-and-OOD-Detection:** *Unveiling Vulnerabilities and Securing AI Models* 
    - Repository explores adversarial attacks and OOD detection in PyTorch with three key experiments: 1. OOD detection using "max logits." 2. FGSM attack for robust   
@@ -20,8 +20,8 @@
    - Unofficial implementation of 'End-To-End Multi-Task Learning with Attention' (Liu et al., 2019), achieving state-of-the-art 
      results with an Encoder-Decoder architecture and attention modules. 🏆
 
-## GitHub Stats
+### GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=salahjebali&show_icons=true)
 
-## Connect with Me
-- 📧 Email: Write me on [Linkedin](https://www.linkedin.com/in/salah-jebali-dev)
+### Connect with Me
+- 📧 Contacts: Write me on [Linkedin](https://www.linkedin.com/in/salah-jebali-dev)
