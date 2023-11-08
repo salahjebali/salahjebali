@@ -9,8 +9,10 @@
 ### Recent Projects
 
 1. 🛡️ **Adversarial-Learning-with-FGSM-attacks-and-OOD-Detection:** *Unveiling Vulnerabilities and Securing AI Models* 
-   - Repository explores adversarial attacks and OOD detection in PyTorch with three key experiments: 1. OOD detection using "max logits." 2. FGSM attack for robust   
-     training. 3. Targeted FGSM attack evaluation, detailed in README. 🎯
+   - Repository explores adversarial attacks and OOD detection in PyTorch with three key experiments:
+      - 1. OOD detection using "max logits."
+      - 2. FGSM attack for robust training.
+      - 3. Targeted FGSM attack evaluation, detailed in README. 🎯
 
 2. 🔍 **Going Deeper with Residual Blocks:** *Why going deeper is not always better, unless you use residual blocks*
    - Repository analyzes neural network depth with MLP and CNNs (VGG16, VGG19, VGG24) for image classification on CIFAR10, also comparing ResNet18 and ResNet34.   
