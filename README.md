@@ -16,9 +16,9 @@
    - Repository analyzes neural network depth with MLP and CNNs (VGG16, VGG19, VGG24) for image classification on CIFAR10, also comparing ResNet18 and ResNet34.   
      Explores behavior through gradient and parameter studies. Detailed results in README. 📊🧠📈
 
-3. 🤹‍♂️ **Multi-Task-Attention-Network (MTAN)** *Encoder-Decoder architecture with attention for multi task learning* 🚗
+3. 🤹‍♂️ **Multi-Task-Attention-Network (MTAN):** *Encoder-Decoder architecture with attention for multi task learning* 
    - Unofficial implementation of 'End-To-End Multi-Task Learning with Attention' (Liu et al., 2019), achieving state-of-the-art 
      results with an Encoder-Decoder architecture and attention modules. 🏆
 
-### Connect with Me
+### Keep in touch
 - 📧 Contacts: Write me on [Linkedin](https://www.linkedin.com/in/salah-jebali-dev)
