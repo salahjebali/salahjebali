@@ -20,8 +20,5 @@
    - Unofficial implementation of 'End-To-End Multi-Task Learning with Attention' (Liu et al., 2019), achieving state-of-the-art 
      results with an Encoder-Decoder architecture and attention modules. 🏆
 
-### GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=salahjebali&show_icons=true)
-
 ### Connect with Me
 - 📧 Contacts: Write me on [Linkedin](https://www.linkedin.com/in/salah-jebali-dev)
