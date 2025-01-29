@@ -1,7 +1,7 @@
 ## Hey there 👋
 
 ### About Me
-- 🎓 Master of Engineering in **Artificial Intelligence** (cum laude) and Bachelor of Science in Computer Science graduate from Università degli studi di Firenze.
+- 🎓 Master of Engineering in **Artificial Intelligence** (cum laude) and Bachelor of Science in Computer Science from Università degli studi di Firenze.
 - 📚 I’m currently working on ~~my final thesis about **Federated Learning**~~ LLMs, RAGs and fine-tuning techniques.
 - 🧬 I’m currently learning **Graph Neural Networks** for path generation.
 - 🌄 **Nature Lover**: Hiking, Biking, and Even the Occasional Cliff Dive. 🌊
