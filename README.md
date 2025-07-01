@@ -1,9 +1,11 @@
 ## Hey there 👋
 
 ### About Me
-- 🎓 Master of Engineering in **Artificial Intelligence** (cum laude) and Bachelor of Science in Computer Science from Università degli studi di Firenze.
-- 📚 I’m currently working on ~~my final thesis about **Federated Learning**~~ LLMs, RAGs and fine-tuning techniques.
-- 🧬 I’m currently learning **Graph Neural Networks** for path generation.
+- 🔬 I am currently a PhD Candidate at TU Delft on the topic of **Topological Deep Learning**.
+- 🎓 Previously I obtained a Master of Engineering in **Artificial Intelligence** (cum laude) and Bachelor of Science in Computer Science from Università degli studi di Firenze.
+- 🏭 Industry experience with **LLMs, fine-tuning, synthetic data & RAGs** (paper @ IJCAI 📑)  
+- 🏛️ I conducted my thesis at Inria 🇫🇷 on **Federated Learning** under the statistical learning and incentive mechanism perspective.
+- 🧬 I did some works **Graph Neural Networks** for path generation, **Transformers** for pedestrian path prediction and other interesting stuff during my studies.
 - 🌄 **Nature Lover**: Hiking, Biking, and Even the Occasional Cliff Dive. 🌊
 
 ### Recent Projects
